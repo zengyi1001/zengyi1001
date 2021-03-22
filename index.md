@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+# 派大星
 
-You can use the [editor on GitHub](https://github.com/zengyi1001/zengyi1001/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## 每周挑战
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+每周挑战的起因，来自我在上班班车上听《罗辑思维》以前的一期节目《如何成为一个高手》。罗胖提到扎克伯克每年都会给自己设定一个挑战目标，2009年是“每天打领带上班”，2010年“是学习中文”，2011年是“只吃自己亲手宰杀的动物”，2012年是每天写代码，2013年是每天跟不同的人见面等等。扎克伯格这种不断摆脱自己舒适区，挑战不可能的精神，确实让人觉得心潮澎湃。我也想不断进步，我也想挑战自我。而且我发现只要稍加思考，我就能列举出一长串自己想要挑战的目标出来。出于自觉没有小扎那么厉害的毅力和行动力，不太可能坚持一年，我把我的挑战周期设定为一周，两个目标，一个生活目标，一个学习目标。这个小站，就用来记录我的路程。
 
-### Markdown
+### 2021第13周
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+2021.03.22 ~ 2021.03.28 
 
-```markdown
-Syntax highlighted code block
+**生活目标** - 本周不刷抖音
 
-# Header 1
-## Header 2
-### Header 3
+**学习目标** - 理解、编译、运行 UDT源码
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zengyi1001/zengyi1001/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
